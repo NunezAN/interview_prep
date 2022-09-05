@@ -1,0 +1,15 @@
+/* .triangle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+* {
+  box-sizing: border-box;
+}
+.base {
+  height: 0px;
+  width: 0px;
+  border: 100px solid transparent;
+  border-top: 0;
+  border-bottom: 100px solid green;
+}
